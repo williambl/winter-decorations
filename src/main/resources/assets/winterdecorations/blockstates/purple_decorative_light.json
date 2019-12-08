@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=true": { "model": "winterdecorations:block/purple_decorative_light_on" },
+    "powered=false": { "model": "winterdecorations:block/decorative_light_off" }
+  }
+}
